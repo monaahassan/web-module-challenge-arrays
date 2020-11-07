@@ -63,8 +63,9 @@ For Example: is31Flavors(originalFlavors) will return true if your code is worki
 
 function is31Flavors(originalFlavors){
     is31Flavors(originalFlavors.length);
+    return (is31Flavors);
 }
-return(is31Flavors);
+
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
